@@ -1,7 +1,10 @@
 # Notes-library
 ![](EnNote.png)
+>
 >Here are some notes to help college students learn programming and employment.
 >These notes are organized by me, I hope you like it.
+
+*Sincere blessing, I hope you have a bright future*
 
 *I work on the small project on my own so the code lacks of comments.*
 
@@ -15,14 +18,19 @@
 ## 下载
 
 仓库的存放形式，以文件夹的形式存放，可以在线查看预览，下载仓库也很简单，点击github网站的按键clone or Download就可以了，
-单个文档下载，点击文档，找到Raw按钮 可以查看，在查看界面右键，另存为。关于github的使用，如果你不会，你可以百度，这里不再复述。
+单个文档下载，点击文档，找到Raw按钮 可以查看，在查看界面右键，“另存为”即可。关于github的使用，如果你不会，你可以百度，这里不再复述。
+文件的格式一般是 .md 或者是 .pdf,你可以使用任何支持Markdown的工具打开md文件，这里推荐VS Code，详细使用请百度
 
 ## 说明
 
 该项目是开源项目，您不能使用于任何商用价值或者违规操作，后面是一些条款
 
+## 版权
+资料收集来自互联网,如有侵犯,请联系本人,将第一时间删除.
+收藏请点star；如果发现我有写错误的，欢迎随时帮我改正，或者增加新的观点，谢谢！
+
 ## License and Credits
-DungeonRush has mixed meida with 
+Notes-Library with 
 various licenses. Unfortunately I failed to track them all. In other word, there are many stuff excluding code that comes with unknown license. You should not reuse any of audio, bitmaps, font in this project. If you insist, use at your own risk.
  
 
