@@ -10,8 +10,10 @@
 最后一丢丢，这是 那个python小游戏的 链接：[教你做塔防小游戏](http://blog.jobbole.com/46308/) ）如果你看完公开课视频，动手开始编码，主动的独立思考，并且能静下心看书，有问题主动google，恭喜你已经具有初级的python从业者能力，如果你想更加了解python，，推荐： python教程廖雪峰官网，再推荐 两个在线编程的网站 Codecademy: Learn Python 和 People Can Program 最后推荐一个有许多小练习的网站 CodeAbbey
 
 
+##
+	进入 ->content ,这是我学习《笨方法学 Python》这本书过程中的笔记，书籍《learn-python-the-hard-way-cn》，笨方法学，顾名思义就是敲下书中的每一行代码，运行调试。如果遇到问题可以查看对应的笔记查看答案和总结。
 
-
+content 目录下包涵了我边看书边敲的所有代码，以及学习 Python 的感悟和笔记。这些内容均在 ex习题号.py 文件中以注释形式展出（已全部完成）
 
 
 ##
